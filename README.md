@@ -1,1 +1,3 @@
 # MyFirstGit
+
+Prima operazione
